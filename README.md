@@ -1,4 +1,4 @@
-# 24-S1-Bootcamp*
+# 24-S1-Bootcamp
 Booking System Bootcamp
 
 ## Claire's Takeaways
