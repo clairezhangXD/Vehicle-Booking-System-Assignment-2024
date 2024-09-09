@@ -2,7 +2,7 @@
 Booking System Bootcamp
 
 ## Claire's Takeaways
-Theory concepts applied in this assignment learnt throughout the unit:
+Theory concepts applied/learned in this project:
 
 - Java
 - Object oriented programming
